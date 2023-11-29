@@ -7,7 +7,7 @@
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O2cjB-id--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/a3exuz06e9h212pandfr.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Student Management Application Frontend API with Relational Databases</h3>
+  <h3 align="center">Student Management Application Backend API with Relational Databases</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -42,8 +42,8 @@ REST APIs based on CRUD methods. The project wrote in JavaScript using Node.js. 
 ### Built With
 
 - JavaScript
-- React.js
-- Redux Toolkit
+- Node.js
+- Express.js
 - Sequelize
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -54,13 +54,14 @@ REST APIs based on CRUD methods. The project wrote in JavaScript using Node.js. 
 
 - Git
 - Node.js
-- Backend API
+- MySQL Server
+- Frontend API or Postman
 
 ### Prerequisites
 
 Things you need to use the software and how to install them.
 
-- Install Backend API.
+- Install MySQL.
 - Install Node.js.
 
 ### Installation
@@ -79,6 +80,6 @@ Things you need to use the software and how to install them.
 
 Chathura Madhava - [@https://www.linkedin.com/in/chathura-madhava-126465191/](https://www.linkedin.com/in/chathura-madhava-126465191/)
 
-Project Link: [https://github.com/P-A-Chathura-Madhava/CRUD-Student-Management-System-Node.js-Sequelize-Frontend.git](https://github.com/P-A-Chathura-Madhava/CRUD-Student-Management-System-Node.js-Sequelize-Frontend.git)
+Project Link: [https://github.com/P-A-Chathura-Madhava/CRUD-Student-Management-System-Node.js-Express.js-Sequelize-Backend.git](https://github.com/P-A-Chathura-Madhava/CRUD-Student-Management-System-Node.js-Express.js-Sequelize-Backend.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
